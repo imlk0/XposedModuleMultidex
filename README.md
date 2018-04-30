@@ -1,10 +1,10 @@
 # XposedModuleMultidex
-MultiDex for Xposed module app
-能够解决`Xposed module`被加载时面临的`multidex`加载问题。
+MultiDex for Xposed module app\
+解决`Xposed module`被加载时面临的`multidex`加载问题。
 
 # 源码
-在`Android MultiDex`库的基础上修改而来
-Android Multi Dex Library » 1.0.3
+在`Android MultiDex`库的基础上修改而来\
+Android Multi Dex Library » 1.0.3\
 [http://mvnrepository.com/artifact/com.android.support/multidex/1.0.3](http://mvnrepository.com/artifact/com.android.support/multidex/1.0.3)
 
 # 缘由
