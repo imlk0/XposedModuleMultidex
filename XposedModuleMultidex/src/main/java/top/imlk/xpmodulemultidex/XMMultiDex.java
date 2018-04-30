@@ -53,8 +53,6 @@ import java.util.zip.ZipFile;
  * class methods. Secondary dex files named classes2.dex, classes3.dex... found
  * in the application apk will be added to the classloader after first call to
  * {@link #install(ClassLoader, String, ApplicationInfo)}.
- * <p>
- * <p/>
  * This library provides compatibility for platforms with API level 4 through 20. This library does
  * nothing on newer versions of the platform which provide built-in support for secondary dex files.
  */
